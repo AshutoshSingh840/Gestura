@@ -36,7 +36,7 @@
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sh1vT/gestura-engine.git
+   https://github.com/AshutoshSingh840/Gestura.git
    cd gestura-engine
    ```
 2. **Set up a virtual environment (recommended):**
